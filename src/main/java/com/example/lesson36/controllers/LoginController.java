@@ -1,5 +1,6 @@
-package com.example.lesson36;
+package com.example.lesson36.controllers;
 
+import com.example.lesson36.LoginProcessor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

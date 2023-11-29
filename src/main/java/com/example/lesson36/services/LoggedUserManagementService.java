@@ -1,4 +1,4 @@
-package com.example.lesson36;
+package com.example.lesson36.services;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.context.annotation.SessionScope;
